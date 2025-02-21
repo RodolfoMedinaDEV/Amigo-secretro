@@ -35,8 +35,8 @@ Aplicación que permite a los usuarios ingresar nombres en una lista, realizar u
     cd challenge-amigo-secreto_Rodolfo
     ```
 
-3. Abre el archivo `index.html` en tu navegador favorito para empezar a usar la aplicación.
+3. Abre el archivo `index.html` en tu navegador para empezar a usar la aplicación.
 
-### Ejecución local 
+### Ejecución 
 
 Este proyecto no requiere ninguna instalación adicional. Simplemente abre el archivo `index.html` en tu navegador y empieza a usar la aplicación.
